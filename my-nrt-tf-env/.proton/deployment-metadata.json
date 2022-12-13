@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "ee9c7fea-c789-4a3c-8c41-08bc9fc74fba",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-northeast-1:088195702211:environment/my-nrt-tf-env",
+    "templateArn" : "arn:aws:proton:ap-northeast-1:088195702211:environment-template/tf-env-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
