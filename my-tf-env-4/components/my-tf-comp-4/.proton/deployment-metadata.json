@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "e909ee04-04c3-4ca1-babd-79a07a808c59",
+  "isResourceDeleted" : false,
+  "componentMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:088195702211:component/my-tf-comp-4",
+    "environmentArn" : "arn:aws:proton:us-east-1:088195702211:environment/my-tf-env-4",
+    "componentType" : "default"
+  }
+}
