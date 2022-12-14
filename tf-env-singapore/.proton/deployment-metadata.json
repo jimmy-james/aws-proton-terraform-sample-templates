@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "f278ead0-f5bb-4350-9ce5-7764cb1dff0e",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-southeast-1:088195702211:environment/tf-env-singapore",
+    "templateArn" : "arn:aws:proton:ap-southeast-1:088195702211:environment-template/tf-env-template-singapore",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
