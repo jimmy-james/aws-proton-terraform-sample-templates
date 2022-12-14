@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
+  "componentMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:088195702211:component/my-tf-comp-4",
+    "environmentArn" : "arn:aws:proton:us-east-1:088195702211:environment/my-tf-env-4",
+    "componentType" : "default"
+  }
+}
