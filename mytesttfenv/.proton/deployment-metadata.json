@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "80dde03b-9dd6-472b-90f6-626cc7fa2118",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:088195702211:environment/mytesttfenv",
+    "templateArn" : "arn:aws:proton:us-east-1:088195702211:environment-template/testing",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
