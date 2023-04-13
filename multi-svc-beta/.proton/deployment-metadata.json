@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "15cf002b-2313-4a78-8bba-42a7f55b5920",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:088195702211:environment/multi-svc-beta",
+    "templateArn" : "arn:aws:proton:us-east-1:088195702211:environment-template/tf-env-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
