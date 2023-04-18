@@ -1,9 +1,9 @@
 {
-  "deploymentId" : "05b9001f-1846-48d5-b4cf-01f77560c701",
+  "deploymentId" : "aaf2a3e2-b2bd-4130-8a3f-40e1efbf0b01",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:088195702211:environment/multi-svc-beta",
-    "templateArn" : "arn:aws:proton:us-east-1:088195702211:environment-template/tf-env-template",
+    "templateArn" : "arn:aws:proton:us-east-1:088195702211:environment-template/vpc-env-template",
     "templateMajorVersion" : "1",
     "templateMinorVersion" : "0"
   }
