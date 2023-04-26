@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "83613f37-9675-42ea-9e1f-46e455e6e353",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:088195702211:environment/multi-svc-beta-2",
+    "templateArn" : "arn:aws:proton:us-east-1:088195702211:environment-template/vpc-env-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
